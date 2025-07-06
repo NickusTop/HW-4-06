@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.div-main {
+    background: url(background.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+}
+.div-overflow {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.791);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.h1-maths {
+    font-family: "Ubuntu", sans-serif;
+    color: white;
+    font-weight: 600;
+}
+.div-line {
+    width: 50%;
+    height: 1px;
+    background-color: white;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+.p-maths {
+    font-family: "Ubuntu", sans-serif;
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 10px;
+}

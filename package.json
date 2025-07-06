@@ -1,0 +1,23 @@
+{
+  "name": "hw-4-06",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/NickusTop/HW-4-06#readme",
+  "bugs": {
+    "url": "https://github.com/NickusTop/HW-4-06/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickusTop/HW-4-06.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
